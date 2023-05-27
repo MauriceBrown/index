@@ -1,6 +1,6 @@
 # Welcome to my Portfolio Page
 
-This page serves as an index for some of my portfolio projects, categorised by the purpose of the project. A link to each selected project can be found below.
+This page serves as an index for some of my portfolio projects, categorised by the purpose of the project. A link to each selected project can be found below as well as link to *live code* where applicable.
 
 ## Dashboards
 
