@@ -19,3 +19,5 @@ This page serves as an index for some of my portfolio projects, categorised by t
     * [Live code link](https://mauricebrown-streamlit-regression-analysis-app-dha1go.streamlit.app/)
 
 ## Web Scraping / APIs / Data Collection Automation
+1. A set of scrapers for collecting basketball data (game results and player stats) from espn.com and nba.com using python, requests and beautifulsoup
+      *[Repo link](https://github.com/MauriceBrown/basketball-data-scraper)
