@@ -17,6 +17,9 @@ This page serves as an index for some of my portfolio projects, categorised by t
 1. An interactive web app for linear regression using python, pandas, plotly, statsmodels and streamlit
     * [Repo link](https://github.com/MauriceBrown/streamlit-regression-analysis)
     * [Live code link](https://mauricebrown-streamlit-regression-analysis-app-dha1go.streamlit.app/)
+2. A data exploration and analysis of marketing data for a food retailer using python, jupyter notebooks, pandas, matplotlib, seaborn, sklearn and statsmodels
+    * [Repo link](https://github.com/MauriceBrown/marketing-data-analysis/tree/main)
+    * [Notebook link](https://github.com/MauriceBrown/marketing-data-analysis/blob/main/iFood%20CRM.ipynb)
 
 ## Web Scraping / APIs / Data Collection Automation
 1. A set of scrapers for collecting basketball data (game results and player stats) from espn.com and nba.com using python, requests and beautifulsoup
