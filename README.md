@@ -28,3 +28,4 @@ This page serves as an index for some of my projects, categorised by the purpose
 ## SQL
 1. A SQL data analysis project using data for European football leagues
       * [Repo link](https://github.com/MauriceBrown/sql-football-data)
+      * [Notebook link](https://github.com/MauriceBrown/sql-football-data/blob/main/European%20Football%20Data%20Analysis.ipynb)
