@@ -8,12 +8,12 @@ This page serves as an index for some of my projects, categorised by the purpose
     * [Repo link](https://github.com/MauriceBrown/streamlit-sales-dashboard)
     * [Live code link](https://mauricebrown-streamlit-sales-dashboard-app-2h1wtf.streamlit.app/)
 
-## Microsoft Office Integration
+## Microsoft Office Integration (VBA)
 
 1. A VBA macro for automating the creation of PowerPoint presentations from Excel data
     * [Repo link](https://github.com/MauriceBrown/Excel-to-Powerpoint-VBA)
 
-## Statistical Modelling/Machine Learning
+## Statistical Modelling / Machine Learning
 1. An interactive web app for linear regression using python, pandas, plotly, statsmodels and streamlit
     * [Repo link](https://github.com/MauriceBrown/streamlit-regression-analysis)
     * [Live code link](https://mauricebrown-streamlit-regression-analysis-app-dha1go.streamlit.app/)
