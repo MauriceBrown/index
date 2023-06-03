@@ -24,3 +24,7 @@ This page serves as an index for some of my projects, categorised by the purpose
 ## Web Scraping / APIs / Data Collection Automation
 1. A set of scrapers for collecting basketball data (game results and player stats) from espn.com and nba.com using python, requests and beautifulsoup
       * [Repo link](https://github.com/MauriceBrown/basketball-data-scraper)
+
+## SQL
+1. A SQL data analysis project using data for European football leagues
+      * [Repo link](https://github.com/MauriceBrown/sql-football-data)
