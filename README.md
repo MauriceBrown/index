@@ -7,6 +7,8 @@ This page serves as an index for some of my projects, categorised by the purpose
 1. An interactive sales data dashboard using python, pandas, plotly and streamlit
     * [Repo link](https://github.com/MauriceBrown/streamlit-sales-dashboard)
     * [Live code link](https://mauricebrown-streamlit-sales-dashboard-app-2h1wtf.streamlit.app/)
+2. Dashboards in Power BI and Excel using sample sales data from Microsoft
+    * [Repo Link](https://github.com/MauriceBrown/sales_dashboard)
 
 ## Microsoft Office Integration (VBA)
 
