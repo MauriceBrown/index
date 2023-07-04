@@ -14,6 +14,11 @@ This page serves as an index for some of my projects, categorised by the purpose
 
 1. A VBA macro for automating the creation of PowerPoint presentations from Excel data
     * [Repo link](https://github.com/MauriceBrown/Excel-to-Powerpoint-VBA)
+  
+## SQL
+1. A SQL data analysis project using data for European football leagues
+      * [Repo link](https://github.com/MauriceBrown/sql-football-data)
+      * [Notebook link](https://github.com/MauriceBrown/sql-football-data/blob/main/European%20Football%20Data%20Analysis.ipynb)
 
 ## Statistical Modelling / Machine Learning
 1. An interactive web app for linear regression using python, pandas, plotly, statsmodels and streamlit
@@ -26,8 +31,3 @@ This page serves as an index for some of my projects, categorised by the purpose
 ## Web Scraping / APIs / Data Collection Automation
 1. A set of scrapers for collecting basketball data (game results and player stats) from espn.com and nba.com using python, requests and beautifulsoup
       * [Repo link](https://github.com/MauriceBrown/basketball-data-scraper)
-
-## SQL
-1. A SQL data analysis project using data for European football leagues
-      * [Repo link](https://github.com/MauriceBrown/sql-football-data)
-      * [Notebook link](https://github.com/MauriceBrown/sql-football-data/blob/main/European%20Football%20Data%20Analysis.ipynb)
